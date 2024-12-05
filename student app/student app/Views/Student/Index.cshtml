@@ -1,0 +1,33 @@
+﻿@model List<studentApp.Models.StudentViewModel>
+
+    @{
+        ViewData["Title"]
+    }
+
+    table class="table table-responsive table-hover">
+    <thead>
+        <tr class="table-active">
+            <th>Id</th>
+            <th>First Name </th>
+            <th>Last Name</th>
+            <th>E-mail</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if(Model !=null && Model.Any())
+    {
+        foreach(var student in Model)
+        <tr>
+            <tr>@Student.Id</tr>
+            <tr>@Student.FirstName</tr>
+            <tr>@Student.lastName</tr>
+            <tr>@Student.Email</tr>
+        </tr>
+
+    
+    }
+
+    }
+    </tbody>
+    </table>
+   </form>

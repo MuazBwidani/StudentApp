@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.GlobalUsings.g.cs
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.AssemblyInfo.cs
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\student app\student app\obj\Debug\net6.0\student app.RazorAssemblyInfo.cs
+E:\أرشيف الجامعة\finish\Nesneye yönelik programlama\student app\student app\student app\obj\Debug\net6.0\student app.csproj.AssemblyReference.cache
+E:\أرشيف الجامعة\finish\Nesneye yönelik programlama\student app\student app\student app\obj\Debug\net6.0\student app.GeneratedMSBuildEditorConfig.editorconfig
+E:\أرشيف الجامعة\finish\Nesneye yönelik programlama\student app\student app\student app\obj\Debug\net6.0\student app.AssemblyInfoInputs.cache
+E:\أرشيف الجامعة\finish\Nesneye yönelik programlama\student app\student app\student app\obj\Debug\net6.0\student app.AssemblyInfo.cs
+E:\أرشيف الجامعة\finish\Nesneye yönelik programlama\student app\student app\student app\obj\Debug\net6.0\student app.csproj.CoreCompileInputs.cache
+E:\أرشيف الجامعة\finish\Nesneye yönelik programlama\student app\student app\student app\obj\Debug\net6.0\student app.MvcApplicationPartsAssemblyInfo.cache
+E:\أرشيف الجامعة\finish\Nesneye yönelik programlama\student app\student app\student app\obj\Debug\net6.0\student app.RazorAssemblyInfo.cache
+E:\أرشيف الجامعة\finish\Nesneye yönelik programlama\student app\student app\student app\obj\Debug\net6.0\student app.RazorAssemblyInfo.cs
